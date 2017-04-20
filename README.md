@@ -1,2 +1,2 @@
 # soakDB
-soakDB excel for XChem fragment screening
+soakDB excel code for XChem fragment screening by X-rays
